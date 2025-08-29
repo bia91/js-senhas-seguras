@@ -22,4 +22,8 @@ function aumentaTamanho() {
     numeroSenha.textContent = tamanhoSenha;
 }
 
-console.log(botoes);
+cont campoSenha = document.querySelector('#campo-senha');
+
+const letrasMaiuscula = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+campoSenha.textContent = letrasMaiuscula;

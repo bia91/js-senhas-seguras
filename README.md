@@ -1,1 +1,0 @@
-# js-senhas-seguras
