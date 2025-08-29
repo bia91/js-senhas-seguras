@@ -26,4 +26,4 @@ cont campoSenha = document.querySelector('#campo-senha');
 
 const letrasMaiuscula = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 
-campoSenha.textContent = letrasMaiuscula;
+campoSenha.value = letrasMaiuscula;
